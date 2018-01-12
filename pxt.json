@@ -1,6 +1,7 @@
 {
     "name": "banana",
     "version": "0.0.0",
+    "icon": "./1.png",
     "description": "",
     "license": "MIT",
     "dependencies": {
